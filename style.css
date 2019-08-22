@@ -15,7 +15,7 @@ div {
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  padding: 22px
+  padding: 22px;
   color:red;
 }
 
